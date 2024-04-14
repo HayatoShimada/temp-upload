@@ -23,6 +23,7 @@ sensors = {'28-3ce1d44311eb': 'temp1',
            '28-3ce1d443c918': 'temp2',
            '28-3ce1d443ce2b': 'temp3'}
 
+
 # メインループ
 while True:
     sensor_data = []
